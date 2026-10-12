@@ -1,0 +1,66 @@
+[ 
+  { 
+    "brand": "Xiaomi", 
+    "modelName": "Redmi Note 10 Pro / Note 11 / Note 12", 
+    "supportsVoLTE": true, 
+    "activationMethod": " رﻣز ﯾظﮭر ﻟم وإذا اﻓﺗراﺿﯾﺎ ً ، ﻣﻔﻌل VoLTE اﻟﻘﻔل ﻹﻟﻐﺎء #*#* 86583 *#*# اﻟﺳري اﻟﻛود اطﻠب  ".اﻹﻗﻠﯾﻣ
+ﻲ
+  }, 
+  { 
+    "brand": "Xiaomi", 
+    "modelName": "POCO X3 Pro / POCO F3 / POCO X5", 
+    "supportsVoLTE": true, 
+    "activationMethod": " اﻟﺷرﯾﺣﺔ إﻋدادات ﻣن أو #*#* 86583 *#*# اﻟﺳري اﻟﻛود ﻋﺑر ﯾﻔﻌّل ﺑﺎﻟﻛﺎﻣل. اﻟﺗﻘﻧﯾﺔ ﯾدﻋم ." 
+  }, 
+  { 
+    "brand": "Samsung", 
+    "modelName": "Galaxy A14 / A24 / A34 / A54 / A55", 
+    "supportsVoLTE": true, 
+    "activationMethod": " اﻟﻣﺣﻣوﻟﺔ اﻟﮭواﺗف ﺷﺑﻛﺎت -< اﻻﺗﺻﺎﻻت -< اﻹﻋدادات ﻋﺑر أو اﻟﺷرﯾﺣﺔ، إدﺧﺎل ﻋﻧد ﺗﻠﻘﺎﺋﯾﺎ ً ﻣﻔﻌل <-  ".VoLTE ﻣﻛﺎﻟﻣﺎ
+ت
+  }, 
+  { 
+    "brand": "Samsung", 
+    "modelName": "Galaxy S20 / S21 / S22 / S23 / S24 Ultra", 
+    "supportsVoLTE": true, 
+    "activationMethod": " 4 اﻟـ ﻋﺑر اﻟﺻوت ﻟﻣﻛﺎﻟﻣﺎت ﻛﻔﺎءة أﻋﻠﻰ ﯾدﻋم G 5 واﻟـ G ً اﻟﻣﺣﻠﻲ اﻟﻣﺷﻐل ﺑﺣﺳب ﺗﻠﻘﺎﺋﯾﺎ ." 
+  }, 
+  { 
+    "brand": "Huawei", 
+    "modelName": "LDN-L21 (Y6 Prime 2018)", 
+    "supportsVoLTE": false, 
+    "activationMethod": " وﺿﻊ ﻓﺣص ﯾﺣﺗﺎج Diag ﻣﻠف وﺣﻘن MBN أداة ﻋﺑر اﻟﻣﻧﺎﺳب QCDMA اﻟﻣﺧﺻﺻﺔ اﻷدوات أو  ".IMS اﻟـ ﻟﺗﻔﻌﯾ
+ل
+  }, 
+  { 
+    "brand": "Huawei", 
+    "modelName": "Nova 7i / Nova 9 / P30 Pro / P40 Pro", 
+    "supportsVoLTE": true, 
+    "activationMethod": " ﻟﻠﻣﺷﻐل اﻟﺷﺑﻛﻲ اﻟﺗﻛوﯾن ﻣﻠف ﺗﺣدﯾث ﻋﺑر أو اﻟﺟوال ﺷﺑﻛﺔ إﻋدادات ﻣن ﺗﻔﻌﯾﻠﮫ وﯾﺗم ھﺎردوﯾرﯾﺎ ً ، ﯾدﻋم ." 
+  }, 
+  { 
+    "brand": "Infinix", 
+    "modelName": "Hot 11 / Hot 12 / Hot 30 / Note 12 / Note 30", 
+    "supportsVoLTE": true, 
+    "activationMethod": "ﻣﻌﺎﻟﺟﺎت MediaTek/Unisoc. ﺑطﺎﻗﺔ إﻋدادات ﻣن ﻣﺑﺎﺷرة اﻟﺧدﻣﺔ ﺗﻔﻌل SIM -> ﺧﯾﺎر VoLTE." 
+  }, 
+  { 
+    "brand": "Tecno", 
+    "modelName": "Camon 18 / Camon 20 / Spark 10 Pro", 
+    "supportsVoLTE": true, 
+    "activationMethod": " زر ﺗﻔﻌﯾل ﻣن ﺗﺄﻛد اﻓﺗراﺿﯾﺎ ً ، اﻟﺧدﻣﺔ ﺗدﻋم VoLTE اﻟﺷرﯾﺣﺔ إﻋدادات داﺧل ." 
+  }, 
+  { 
+    "brand": "Realme", 
+    "modelName": "Realme C33 / C55 / Realme 9 / Realme 11", 
+    "supportsVoLTE": true, 
+    "activationMethod": " اﻹﻋدادات ﻓﻲ واﻟﻣﻛﺎﻟﻣﺎت اﻟﺷﺑﻛﺔ ﺧﯾﺎرات ﻣن ﯾﻔﻌّل ﺑﺎﻟﻛﺎﻣل، ﯾدﻋم ." 
+  }, 
+  { 
+    "brand": "LG", 
+    "modelName": "LG V60 / Velvet / G8 ThinQ (Qualcomm)", 
+    "supportsVoLTE": true, 
+    "activationMethod": " ה ﻣﻠﻔﺎت ﺗﻌدﯾل ﻏﺎﻟﺑﺎ ً ﯾﺣﺗﺎج-EFS ﻣﻠف وﺣﻘن MBN ﻛواﻟﻛوم أدوات ﻋﺑر اﻟﻣﺣﻠﯾﺔ اﻟﺷﺑﻛﺔ ﻣﻊ اﻟﻣﺗواﻓق  ".QCDMA ﻣﺛ
+ل
+  } 
+]
